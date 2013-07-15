@@ -7,6 +7,6 @@ Zur Zeit sind in diesem Repository verfügar:
 
 - Der Tempel (The Temple)
 
-In diesem Repository veröffentlichte Übersetzungen stehen soweit nicht anders angegeben unter einer Creative Commons Lizenz (CC-BY-SA) [http://creativecommons.org/licenses/by-sa/3.0/deed.de].
+In diesem Repository veröffentlichte Übersetzungen stehen soweit nicht anders angegeben unter einer Creative Commons Lizenz (CC-BY-SA) http://creativecommons.org/licenses/by-sa/3.0/deed.de.
 
-benffalls soweit nicht anders angegeben, steht der englische Originaltext unter [http://hplovecraft.com] zur Verfügung.
+Ebenfalls soweit nicht anders angegeben, steht der englische Originaltext unter http://hplovecraft.com zur Verfügung.
