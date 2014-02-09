@@ -17,4 +17,4 @@ Ebenfalls soweit nicht anders angegeben, steht der englische Originaltext unter 
 
 Eine erste Lesung von "Die Katzen von Ulthar" gibt es auf von Edgar Allan Poe (https://twitter.com/DerAltePoet ): http://www.youtube.com/watch?v=pkEtGz_tFOc
 
-Die vorhandenen Geschichten sind im LaTeX-Quellcodeformat gehalten. Um daraus etwa ein PDF zu generieren, wird eine LaTeX-Distribution wie z.B. TeXLive (http://www.tug.org/texlive/) benötigt.
+Die vorhandenen Geschichten sind im LaTeX-Quellcodeformat gehalten. Um daraus etwa ein PDF zu generieren, wird eine LaTeX-Distribution mit XeTeX-Support wie z.B. TeXLive (http://www.tug.org/texlive/) benötigt. Als Schrift kommt Linux Libertine, erhältlich unter http://www.linuxlibertine.org/ zum Einsatz.

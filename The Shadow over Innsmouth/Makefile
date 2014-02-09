@@ -1,8 +1,5 @@
-pdf: Innsmouth.dvi
-	dvipdf Innsmouth.dvi
-
-Innsmouth.dvi:
-	latex Innsmouth.tex
+pdf:
+	xelatex Innsmouth.tex
 
 clean:
 	rm *.aux
