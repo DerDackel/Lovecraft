@@ -15,6 +15,8 @@ In diesem Repository veröffentlichte Übersetzungen stehen soweit nicht anders 
 
 Ebenfalls soweit nicht anders angegeben, steht der englische Originaltext unter http://hplovecraft.com zur Verfügung.
 
-Eine erste Lesung von "Die Katzen von Ulthar" gibt es auf von Edgar Allan Poe (https://twitter.com/DerAltePoet ): http://www.youtube.com/watch?v=pkEtGz_tFOc
+Eine Lesung von Dagon gibt es vom BartoCast: https://www.youtube.com/watch?v=U6Lc2wYb984
+
+Außerdem liest Kris von Kris liest zur Zeit einige der Geschichten ein: http://kris-liest.de/kl10-h-p-lovecraft-teil-1
 
 Die vorhandenen Geschichten sind im LaTeX-Quellcodeformat gehalten. Um daraus etwa ein PDF zu generieren, wird eine LaTeX-Distribution mit XeTeX-Support wie z.B. TeXLive (http://www.tug.org/texlive/) benötigt. Als Schrift kommt Linux Libertine, erhältlich unter http://www.linuxlibertine.org/ zum Einsatz.
