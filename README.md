@@ -19,4 +19,10 @@ Eine Lesung von Dagon gibt es vom BartoCast: https://www.youtube.com/watch?v=U6L
 
 Außerdem liest Kris von Kris liest zur Zeit einige der Geschichten ein: http://kris-liest.de/kl10-h-p-lovecraft-teil-1
 
+Und nun sind auch die Lesungen von @DerAltePoet aka EAPoe Productions wieder online:
+
+[Der Tempel](https://www.youtube.com/watch?v=aD4R9Gr6UNM)
+[Die Katzen von Ulthar](https://www.youtube.com/watch?v=q6RptHnB7wA)
+[Die Musik des Erich Zann](https://www.youtube.com/watch?v=cLOaKAEeyQ4)
+
 Die vorhandenen Geschichten sind im LaTeX-Quellcodeformat gehalten. Um daraus etwa ein PDF zu generieren, wird eine LaTeX-Distribution mit XeTeX-Support wie z.B. TeXLive (http://www.tug.org/texlive/) benötigt. Als Schrift kommt Linux Libertine, erhältlich unter http://www.linuxlibertine.org/ zum Einsatz.
