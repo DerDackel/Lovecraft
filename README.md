@@ -9,9 +9,9 @@ Zur Zeit sind in diesem Repository verfügar:
 - Der Tempel (The Temple)
 - Die Katzen von Ulthar (The Cats of Ulthar)
 - Die Musik des Erich Zann (The Music of Erich Zann)
-- Der Schatten über Innsmouth (The Shadow over Innsmouth) -- IN ARBEIT
+- Der Schatten über Innsmouth (The Shadow over Innsmouth)
 
-In diesem Repository veröffentlichte Übersetzungen stehen soweit nicht anders angegeben unter einer Creative Commons Lizenz (CC-BY-SA) http://creativecommons.org/licenses/by-sa/3.0/deed.de.
+In diesem Repository veröffentlichte Übersetzungen stehen soweit nicht anders angegeben unter einer Creative Commons Lizenz (CC-BY-SA) http://creativecommons.org/licenses/by-sa/3.0/deed.de oder http://creativecommons.org/licenses/by-sa/4.0/deed.de.
 
 Ebenfalls soweit nicht anders angegeben, steht der englische Originaltext unter http://hplovecraft.com zur Verfügung.
 
